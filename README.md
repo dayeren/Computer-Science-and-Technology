@@ -1,8 +1,5 @@
 # Computer-Science-and-Technology
 
-
-# Deep-Learning
-
 ## 主要内容
    
 - [课程列表](#curriculum)
