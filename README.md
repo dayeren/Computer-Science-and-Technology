@@ -41,5 +41,9 @@
 恭喜您,您已经较好的掌握所有计算机系学生必备的初级程序设计能力，现在已经具备进入下一阶段的能力了，您可以选择您喜欢的研究方向进行学习，希望再接再励！
 
 - [机器学习](https://github.com/dayeren/Machine-Learning)
+- [自然语言处理](https://github.com/dayeren/-Natural-Language-Processing)
+- [机器人学]
+- [计算机视觉]
+- [计算生物学]
 - 其他(暂无，希望大伙一起加入完善)
 
