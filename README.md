@@ -43,7 +43,7 @@
 - [机器学习](https://github.com/dayeren/Machine-Learning)
 - [自然语言处理](https://github.com/dayeren/-Natural-Language-Processing)
 - [机器人学]
-- [计算机视觉]
+- [计算机视觉](https://github.com/dayeren/Computer-Vision)
 - [计算生物学]
 - 其他(暂无，希望大伙一起加入完善)
 
