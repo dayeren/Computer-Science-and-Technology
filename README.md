@@ -45,5 +45,6 @@
 - [机器人学]
 - [计算机视觉](https://github.com/dayeren/Computer-Vision)
 - [计算生物学]
+- [计算机图形学](https://github.com/dayeren/Computer-Graphics)
 - 其他(暂无，希望大伙一起加入完善)
 
