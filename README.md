@@ -22,10 +22,10 @@
 [C语言程序设计](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)| thenewboston | [The C Programming Language](https://www.amazon.com/dp/0131103628/?tag=stackoverfl08-20) |[链接](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
 [Java语言程序设计](https://www.coursera.org/learn/object-oriented-java) | Coursera | [Thinking in Java](https://www.amazon.com/gp/product/0131872486/ref=ase_bruceeckelA/) | [链接](https://www.coursera.org/learn/object-oriented-java)
 [数据结构入门](https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)| mycodeschool | 暂无 |[链接]
-[数据库知识](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| Stanford | 暂无 |[链接](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 [算法1](https://www.coursera.org/learn/introduction-to-algorithms) | Princeton | [Algorithms](http://algs4.cs.princeton.edu/home/) | [链接](https://www.coursera.org/learn/introduction-to-algorithms)
 [算法2](https://www.coursera.org/learn/java-data-structures-algorithms-2) | Princeton |  [Algorithms](http://algs4.cs.princeton.edu/home/) | [链接](https://www.coursera.org/learn/java-data-structures-algorithms-2)
 [算法简介](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) | MIT | [Introduction to Algorithms](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20) |[链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
+[数据库知识](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| Stanford | 暂无 |[链接](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 
 ##<h2 id="learning_routine">计算机科学专业学习路线</h2>
 ###<h3 id="CS_begin">什么是计算机科学</h3>
