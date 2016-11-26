@@ -45,14 +45,15 @@
 
 ###<h3 id="phase_1">计算机核心课程学习_阶段一</h3>
 
-   程序语言我们将**C语言程序设计**列为必修的课程，其余的程序设计课程可以根据兴趣爱好进行学习，具体的可以参见[其他推荐课程](#recommended_class)。
-
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [C语言程序设计](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)| thenewboston | [The C Programming Language](https://www.amazon.com/dp/0131103628/?tag=stackoverfl08-20) |[链接](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
 [数据结构入门](https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)| mycodeschool | 暂无 |[链接]((https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P))
 
 ###<h3 id="phase_2">计算机核心课程学习_阶段二</h3>
+   
+  这边我们选择学习了另外一门语言--Java，一方面是后续的**算法1和算法2**中的习题完成需要依赖于Java语言，另外一方面希望大家能了解什么是面向对象编程，注意与C语言的区别。
+
   这一部分MIT的算法简介中要求拥有python语言基础，我们建议先观看视频，在需要用到python的时候再去学习，不需要再系统的学习一遍python,当然如果喜欢使用python的话就另当别论。
 
 课程 | 机构 | 参考书 | Notes等其他资料
