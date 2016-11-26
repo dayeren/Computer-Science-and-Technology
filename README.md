@@ -5,15 +5,16 @@
 - [课程列表](#curriculum)
 - [基础课程学习](#basic_class)
 - [任务](#task)
+- [其他推荐课程](#recommended_class)
 - [领域学习](#area_study)
 
 ##<h2 id="curriculum">课程列表</h2>
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
-[离散数学]| 暂无 | 暂无 |[链接]
-[C++语言程序设计]| 暂无 | 暂无 |[链接](http://www.learncpp.com/)
-[Java程序语言设计]| 暂无 | 暂无 |[链接]
+[单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) |  MIT | [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)  | [链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) 
+[计算机科学数学](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | MIT | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
+[C++语言程序设计]| 暂无 | 暂无 |[链接](http://www.learncpp.com/) 
 [数据结构]| 暂无 | 暂无 |[链接]
 [数据库知识]| 暂无 | 暂无 |[链接]
 [算法] | 暂无 | 暂无 |[链接]
@@ -23,7 +24,10 @@
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
-[离散数学]| 暂无 | 暂无 |[链接]
+[单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) |  MIT | [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)  | [链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) 
+[计算机科学数学](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | MIT | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
+
+[C++语言程序设计]| 暂无 | 暂无 |[链接](http://www.learncpp.com/) 
 [C++语言程序设计]| 暂无 | 暂无 |[链接]
 [Java程序语言设计]| 暂无 | 暂无 |[链接]
 [数据库知识]| 暂无 | 暂无 |[链接]
