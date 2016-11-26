@@ -25,6 +25,8 @@
 [数据结构入门](https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)| mycodeschool | 暂无 |[链接]
 [数据库知识](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| Stanford | 暂无 |[链接](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 [算法简介](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) | MIT | [Introduction to Algorithms](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20) |[链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
+[基础算法1](https://www.coursera.org/learn/introduction-to-algorithms) | Princeton | 暂无 | [链接](https://www.coursera.org/learn/introduction-to-algorithms)
+[基础算法2](https://www.coursera.org/learn/java-data-structures-algorithms-2) | Princeton | 暂无 | [链接](https://www.coursera.org/learn/java-data-structures-algorithms-2)
 
 ##<h2 id="learning_routine">计算机科学专业学习路线</h2>
 ###<h3 id="CS_begin">什么是计算机科学</h3>
@@ -44,14 +46,14 @@
 
 ###<h3 id="programming_language">程序设计语言学习</h3>
 
+   程序语言我们将**C语言程序设计**列为必修的课程，其余的程序设计课程可以根据兴趣爱好进行学习，具体的可以参见[其他推荐课程](#recommended_class)。
+
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [C语言程序设计](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)| thenewboston | 暂无 |[链接](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
-[Java语言程序设计](https://www.coursera.org/learn/object-oriented-java) | Coursera | 暂无 | [链接](https://www.coursera.org/learn/object-oriented-java)
-[C++语言程序设计]| 暂无 | 暂无 |[链接](http://www.learncpp.com/) 
-[Java程序语言设计]| 暂无 | 暂无 |[链接]
 
 ###<h3 id="main_stuff">计算机核心课程学习</h3>
+  这一部分MIT的算法简介中要求拥有python语言基础，我们建议先观看视频，在需要用到python的时候再去学习，不需要再系统的学习一遍python,当然如果喜欢使用python的话就另当别论。
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
@@ -65,6 +67,10 @@
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
+[C++语言程序设计]| 暂无 | 暂无 |[链接](http://www.learncpp.com/) 
+[Java语言程序设计](https://www.coursera.org/learn/object-oriented-java) | Coursera | 暂无 | [链接](https://www.coursera.org/learn/object-oriented-java)
+[基础算法1](https://www.coursera.org/learn/introduction-to-algorithms) | Princeton | 暂无 | [链接](https://www.coursera.org/learn/introduction-to-algorithms)
+[基础算法2](https://www.coursera.org/learn/java-data-structures-algorithms-2) | Princeton | 暂无 | [链接](https://www.coursera.org/learn/java-data-structures-algorithms-2)
 
 ##<h2 id="task">任务</h2>
 为了较好的检验您的程序设计能力，希望您能去下列相应平台中完成指定的任务，所有的任务都可以利用上述学得的知识完成，加油！
