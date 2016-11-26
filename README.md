@@ -19,8 +19,8 @@
 [计算机简介](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) | Harvard | 暂无 | [链接](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) |  MIT | [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)  | [链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) 
 [计算机科学数学](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | MIT | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
-[C语言程序设计](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)| thenewboston | 暂无 |[链接](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
-[C++语言程序设计]| 暂无 | 暂无 |[链接](http://www.learncpp.com/) 
+[C语言程序设计](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)| thenewboston | [The C Programming Language](https://www.amazon.com/dp/0131103628/?tag=stackoverfl08-20) |[链接](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
+C++语言程序设计| 暂无 | [Effective C++: 55 Specific Ways to Improve Your Programs and Designs](https://www.amazon.com/gp/product/0321334876/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321334876&linkCode=as2&tag=roblov-20) |[链接](http://www.learncpp.com/) 
 [Java语言程序设计](https://www.coursera.org/learn/object-oriented-java) | Coursera | 暂无 | [链接](https://www.coursera.org/learn/object-oriented-java)
 [数据结构入门](https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)| mycodeschool | 暂无 |[链接]
 [数据库知识](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| Stanford | 暂无 |[链接](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
@@ -50,7 +50,7 @@
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
-[C语言程序设计](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)| thenewboston | 暂无 |[链接](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
+[C语言程序设计](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)| thenewboston | [The C Programming Language](https://www.amazon.com/dp/0131103628/?tag=stackoverfl08-20) |[链接](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
 
 ###<h3 id="main_stuff">计算机核心课程学习</h3>
   这一部分MIT的算法简介中要求拥有python语言基础，我们建议先观看视频，在需要用到python的时候再去学习，不需要再系统的学习一遍python,当然如果喜欢使用python的话就另当别论。
@@ -67,7 +67,7 @@
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
-[C++语言程序设计]| 暂无 | 暂无 |[链接](http://www.learncpp.com/) 
+C++语言程序设计| 暂无 | [Effective C++: 55 Specific Ways to Improve Your Programs and Designs](https://www.amazon.com/gp/product/0321334876/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321334876&linkCode=as2&tag=roblov-20) |[链接](http://www.learncpp.com/)
 [Java语言程序设计](https://www.coursera.org/learn/object-oriented-java) | Coursera | 暂无 | [链接](https://www.coursera.org/learn/object-oriented-java)
 [基础算法1](https://www.coursera.org/learn/introduction-to-algorithms) | Princeton | 暂无 | [链接](https://www.coursera.org/learn/introduction-to-algorithms)
 [基础算法2](https://www.coursera.org/learn/java-data-structures-algorithms-2) | Princeton | 暂无 | [链接](https://www.coursera.org/learn/java-data-structures-algorithms-2)
