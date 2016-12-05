@@ -68,6 +68,7 @@
 为了较好的检验您的程序设计能力，希望您能去下列相应平台中完成指定的任务，所有的任务都可以利用上述学得的知识完成，加油！
 - [杭电OJ](http://acm.hdu.edu.cn/)
 - [LeetCode OJ](https://leetcode.com/)
+- [hihoCoder](https://hihocoder.com/)
 - **希望大家补充**
 
 
